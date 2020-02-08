@@ -16,7 +16,7 @@ Made With ❤️ by Heriberto Delgado
 
 ## Know Issues
 
-* In some Linux system need install xsel to copy your network details. 
+* In some Linux system its necessary install xsel to copy your network details.
 
 <code>$ apt install xsel</code>
 
